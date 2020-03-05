@@ -4,7 +4,7 @@
 
 作者: TheRealKamisama 修订者：千央黑猫 B站：https://space.bilibili.com/279539
 
-基于1.0.310版本，没记错的话
+基于1.0.310版本，没记错的话，源地址：https://github.com/TRKS-Team/WFBot
 
 ---
 
